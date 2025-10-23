@@ -12,7 +12,10 @@ st.markdown(
 Welcome to my FullstackGPT Portfolio!
             
 Here are the apps I made:
-            
+
+---
+- [x] [Assignment_06](Assignment_06)
+---
 - [ ] [DocumentGPT](/DocumentGPT)
 - [ ] [PrivateGPT](/PrivateGPT)
 - [ ] [QuizGPT](/QuizGPT)
@@ -21,5 +24,3 @@ Here are the apps I made:
 - [ ] [InvestorGPT](/InvestorGPT)
 """
 )
-
-st.write(st.secrets["OPENAI_API_KEY"])
