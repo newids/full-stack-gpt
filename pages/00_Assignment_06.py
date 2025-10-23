@@ -45,8 +45,10 @@ def load_memory(_):
 
 @st.cache_resource(show_spinner="Embedding file...")
 def embed_file(file, api_key):
+    import os
     file_content = file.read()
     file_path = f"./.cache/files/{file.name}"
+    os.makedirs(os.path.dirname(file_path), exist_ok=True)
     with open(file_path, "wb") as f:
         f.write(file_content)
     cache_dir = LocalFileStore(f"./.cache/embeddings/{file.name}")
