@@ -129,6 +129,8 @@ with st.sidebar:
         type=["pdf", "txt", "docx"],
     )
 
+    st.write("https://github.com/newids/full-stack-gpt")
+
 if file and openai_api_key != "":
     if "llm" not in st.session_state or st.session_state.get("api_key") != openai_api_key:
         st.session_state["api_key"] = openai_api_key
