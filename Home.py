@@ -15,10 +15,11 @@ Here are the apps I made:
 
 ---
 - [x] [Assignment_06](Assignment_06)
+- [x] [Assignment_07](Assignment_07)
 ---
-- [ ] [DocumentGPT](/DocumentGPT)
-- [ ] [PrivateGPT](/PrivateGPT)
-- [ ] [QuizGPT](/QuizGPT)
+- [x] [DocumentGPT](/DocumentGPT)
+- [x] [PrivateGPT](/PrivateGPT)
+- [x] [QuizGPT](/QuizGPT)
 - [ ] [SiteGPT](/SiteGPT)
 - [ ] [MeetingGPT](/MeetingGPT)
 - [ ] [InvestorGPT](/InvestorGPT)
