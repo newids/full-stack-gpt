@@ -309,7 +309,7 @@ with st.sidebar:
     url = url_mapping.get(doc_option, "")
 
     st.markdown(
-        "https://github.com/newid/full-stack-gpt")
+        "https://github.com/newids/full-stack-gpt/blob/main/pages/00_Assignment_08.py")
 
 
 if not api_key:
