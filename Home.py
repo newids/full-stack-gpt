@@ -16,7 +16,7 @@ Here are the apps I made:
 ---
 - [x] [Assignment_06](Assignment_06)
 - [x] [Assignment_07](Assignment_07)
-- [x] [Assignment_07](Assignment_08)
+- [x] [Assignment_08](Assignment_08)
 ---
 - [x] [DocumentGPT](/DocumentGPT)
 - [x] [PrivateGPT](/PrivateGPT)
