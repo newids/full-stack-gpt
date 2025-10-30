@@ -18,11 +18,11 @@ Here are the apps I made:
 - [x] [Assignment_07](Assignment_07)
 - [x] [Assignment_08](Assignment_08)
 ---
-- [x] [DocumentGPT](/DocumentGPT)
-- [x] [PrivateGPT](/PrivateGPT)
-- [x] [QuizGPT](/QuizGPT)
-- [x] [SiteGPT](/SiteGPT)
-- [ ] [MeetingGPT](/MeetingGPT)
-- [ ] [InvestorGPT](/InvestorGPT)
+- [x] [📃 DocumentGPT](/DocumentGPT)
+- [x] [🔒 PrivateGPT](/PrivateGPT)
+- [x] [❓ QuizGPT](/QuizGPT)
+- [x] [🖥️ SiteGPT](/SiteGPT)
+- [x] [💼 MeetingGPT](/MeetingGPT)
+- [ ] [📈 InvestorGPT](/InvestorGPT)
 """
 )
