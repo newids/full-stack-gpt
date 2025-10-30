@@ -1,0 +1,28 @@
+Research Report - Generated on 2025-10-31 02:44:26
+==================================================
+
+Wikipedia Result for 'XZ backdoor':
+
+In February 2024, a malicious backdoor was introduced to the Linux build of the xz utility within the liblzma library in versions 5.6.0 and 5.6.1 by an account using the name 'Jia Tan'. The backdoor gives an attacker who possesses a specific Ed448 private key remote code execution through OpenSSH on the affected Linux system. The issue has been given the Common Vulnerabilities and Exposures number CVE-2024-3094 and has been assigned a CVSS score of 10.0, the highest possible score.
+
+DuckDuckGo Search Results for 'XZ backdoor recent information':
+
+1. 知名压缩软件 xz 被发现有后门，影响有多大？如何应对？ - 知乎
+   URL: https://www.zhihu.com/question/650826484
+   Snippet: 2. xz-utils项目的原维护者Lasse Collin (L arhzu),有着定期进行internetbreaks的习惯，而且最近正在进行，导致这些变动他并没有review的机会，即使到现在也没能联系上他本人。 这可能也是 …
+
+2. xz后缀压缩包如何打开? - 百度知道
+   URL: https://zhidao.baidu.com/question/994680304718284699.html
+   Snippet: Aug 29, 2024 · xz后缀压缩包如何打开?.xz后缀的压缩包使用LZMA算法压缩，通常与tar结合为tar.xz归档文件。 不同系统打开方法如下：对于Linux用户：1.
+
+3. 三维CAD如何切换平面？当前在XY平面画二维图形，切换到XZ平 …
+   URL: https://zhidao.baidu.com/question/1957560271893311908.html
+   Snippet: Jul 4, 2023 · 三维CAD如何切换平面？ 当前在XY平面画二维图形，切换到XZ平面或者YZ平面画其他二维图形？ 有无快捷键？ 150 在不使用UCS坐标系的情况下，有无此功能？
+
+4. 如何解压.xz文件 windows_百度知道
+   URL: https://zhidao.baidu.com/question/660765497549031285.html
+   Snippet: Jul 29, 2025 · 如何解压.xz文件 windows在Windows系统中，解压.xz文件可以使用7-Zip软件。具体步骤如下：安装7-Zip：首先，需要从7-Zip的官方网站下载并安装该软件。7-Zip是一款开源的 …
+
+5. 安卓手机如何打开.xz文件 - 百度知道
+   URL: https://zhidao.baidu.com/question/565373011377508212.html
+   Snippet: Mar 27, 2025 · 安卓手机如何打开.xz文件安卓手机无法直接打开.xz文件，但可以通过ZArchiver应用解压后查看。 具体操作步骤如下：安装ZArchiver应用：在安卓手机的应用商店中搜索并安 …
